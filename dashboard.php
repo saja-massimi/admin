@@ -45,7 +45,7 @@
                         <a class="nav-link" href="users.php">Manage Users</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="ordesr.php">Manage Orders</a>
+                        <a class="nav-link" href="orders.php">Manage Orders</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="items.php">Manage Items</a>
@@ -64,7 +64,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Users</h5>
                                 <p class="card-text">Manage users and their details.</p>
-                                <a href="user.php" class="btn btn-light">Go to Users</a>
+                                <a href="users.php" class="btn btn-light">Go to Users</a>
                             </div>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Orders</h5>
                                 <p class="card-text">View and manage orders.</p>
-                                <a href="order.php" class="btn btn-light">Go to Orders</a>
+                                <a href="orders.php" class="btn btn-light">Go to Orders</a>
                             </div>
                         </div>
                     </div>

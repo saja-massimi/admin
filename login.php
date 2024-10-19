@@ -23,7 +23,7 @@ if (isset($_POST["login"])) {
     if($email=='admin@gmail.com')
     header('location:dashboard.php');
 else
-      header('location:addItems.php');
+      header('location:landing.php');
     } else {
         echo '<div class="alert alert-danger" role="alert">
         User not login
